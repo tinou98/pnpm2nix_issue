@@ -1,0 +1,17 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "=0.136.0",
+    "troisjs": "^0.3.4",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8"
+  }
+}
